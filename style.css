@@ -9,6 +9,10 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
+.header.main {
+    text-align: center;
+}
+
 .content {
   font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
     sans-serif;
@@ -17,10 +21,15 @@ body {
 
 .content a {
   text-decoration: none;
-  color: rgb(78, 50, 204);
+  color: rgb(127, 127, 129);
+}
+
+.content #center-list {
+    text-align: center;
+    list-style-type: none;
 }
 
 img {
-    width: 400px;
+    width: 300px;
     height: auto;
 }
