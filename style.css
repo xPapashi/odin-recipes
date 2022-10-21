@@ -10,7 +10,7 @@ body {
 }
 
 .header.main {
-    text-align: center;
+  text-align: center;
 }
 
 .content {
@@ -25,11 +25,11 @@ body {
 }
 
 .content #center-list {
-    text-align: center;
-    list-style-type: none;
+  text-align: center;
+  list-style-type: none;
 }
 
 img {
-    width: 300px;
-    height: auto;
+  width: 300px;
+  height: auto;
 }
