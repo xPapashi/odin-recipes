@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(46, 46, 46);
+  font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+.header {
+  font-size: 36px;
+  color: #fff;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.content {
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
+    sans-serif;
+  color: #fff;
+}
+
+.content a {
+  text-decoration: none;
+  color: rgb(78, 50, 204);
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
